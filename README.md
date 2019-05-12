@@ -50,7 +50,7 @@ it.*
 **Q10: Can you create a function that can accept a varying number of
 arguments?**
 
-*Yes.*
+*Simple answer: Yes?*
 
 **Q11: How do you sort an array?**
 
